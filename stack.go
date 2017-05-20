@@ -25,7 +25,6 @@ type SkipFunc func(i, j int, lttrs []rune, sep rune) bool
 func SkipIfFirst(i, j int, lttrs []rune, sep rune) (skip bool) {
 	if i == 0 {
 		skip = true
-		return
 	}
 
 	return

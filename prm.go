@@ -69,7 +69,7 @@ func Parameterize(s string, sep rune) string {
 	return string(ctx.lttrs)
 }
 
-// Return true if the rune is a digit or a ASCII letter
+// Return false if the rune is a digit or a ASCII letter
 func notLoN(r rune) bool {
 	if r <= 'z' && r >= 'A' {
 		return false
