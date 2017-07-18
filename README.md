@@ -1,5 +1,6 @@
 [![GoDoc](https://godoc.org/github.com/romanyx/prm?status.svg)](https://godoc.org/github.com/romanyx/prm)
 [![Build Status](https://travis-ci.org/romanyx/prm.png)](https://travis-ci.org/romanyx/prm)
+[![Coverage Status](https://coveralls.io/repos/github/romanyx/prm/badge.svg?branch=master)](https://coveralls.io/github/romanyx/prm?branch=master)
 
 # Overview
 
